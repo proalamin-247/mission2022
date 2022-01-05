@@ -96,6 +96,17 @@ body {
 }
 /* Mission area END */
 
+.contact-section{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.contact-section-div{
+    text-align: center;
+    background-color:rgb(240, 250, 246);
+    width: auto;
+    padding: 100px;
+}
+
 
 /* Footer area START */
 .footer{
