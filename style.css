@@ -1,0 +1,93 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+/* Comone style start */
+.main-area{
+    display: flex;
+    padding: 30px;
+    margin-bottom: 4%;
+}
+.main-area img {
+    width: 88%;
+}
+.child-area{
+    width: 50%;
+    margin-bottom: 40px;
+}
+.child-area-detials{
+    margin-top: 30px;
+}
+
+.text-highlight{
+    color:#FFAD5A;
+}
+
+.area-detail-texts{
+    font-size: 22px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: #FF5959;
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 5px;
+}
+/* Comone style end */
+
+
+/* ==top area start */
+.top-child-position{
+    margin-top: 100px;
+}
+
+#top-tittle-border{
+    border-left: 6px solid salmon;
+}
+
+.top-area-tittle-text{
+    font-family: Yeseva One;
+    font-size: 60px;
+    line-height: 80px;
+    margin-left: 15px;
+    
+}
+
+/* ======top section end */
+.section-tittle{
+    font-weight: bold;
+    font-size: 36px;
+}
+
+/* Mission area START */
+.mission-area-heading{
+    font-size: 45px;
+    text-align: center;
+}
+
+.mission-area-main img{
+    width: 50%;
+}
+
+.mission-area-child{
+    padding: 10px;
+    margin: 15px;
+    border-radius: 30px;
+}
+
+#child-bg-1{
+    background: #4f9da61a;
+}
+
+#child-bg-2{
+   background-color: #ff59591a;     /* একানে এতগুলো আইডি ইউজ করা কি ঠিক???*/
+}
+
+#child-bg-3{
+    background-color: #FFF4D6;
+}
+/* Mission area END */
