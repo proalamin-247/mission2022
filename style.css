@@ -7,7 +7,7 @@ body {
     margin-right: 7%;
 }
 
-/* Comone style start */
+/* Common style start */
 .main-area{
     display: flex;
     padding: 30px;
@@ -45,7 +45,7 @@ body {
     font-weight: bold;
     font-size: 36px;
 }
-/* Comone style end */
+/* Common style end */
 
 
 /* ==top area start */
@@ -62,6 +62,11 @@ body {
     font-size: 60px;
     line-height: 80px;
     margin-left: 15px;
+    
+}
+#author-name-style{
+    font-weight: bold;
+    font-size: 140%;
     
 }
 
